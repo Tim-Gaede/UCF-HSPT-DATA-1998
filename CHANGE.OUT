@@ -1,0 +1,68 @@
+Data Set #1: 3 3 0 0 65
+   Ali, use 2 quarter(s), 2 dime(s), 
+        and kick the machine 5 time(s)!
+
+Data Set #2: 5 0 1 0 65
+   Ali, use 3 quarter(s), 
+        and kick the machine 10 time(s)!
+
+Data Set #3: 0 3 1 0 23
+   Ali, use 2 dime(s), 1 nickel(s), 
+        and kick the machine 2 time(s)!
+
+Data Set #4: 0 3 1 4 23
+   Ali, use 2 dime(s), 3 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #5: 2 0 0 0 50
+   Ali, use 2 quarter(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #6: 100 100 100 100 100
+   Ali, use 100 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #7: 1 1 2 4 49
+   Ali, use 1 quarter(s), 1 dime(s), 2 nickel(s), 4 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #8: 2 1 2 3 49
+   Ali, use 2 quarter(s), 
+        and kick the machine 1 time(s)!
+
+Data Set #9: 1 2 1 3 49
+   Ali, use 1 quarter(s), 2 dime(s), 1 nickel(s), 
+        and kick the machine 1 time(s)!
+
+Data Set #10: 1 1 3 4 49
+   Ali, use 1 quarter(s), 1 dime(s), 2 nickel(s), 4 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #11: 3 2 3 0 49
+   Ali, use 1 quarter(s), 1 dime(s), 3 nickel(s), 
+        and kick the machine 1 time(s)!
+
+Data Set #12: 0 0 0 14 12
+   Ali, use 12 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #13: 0 0 3 1 10
+   Ali, use 2 nickel(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #14: 2 4 8 11 93
+   Ali, use 1 quarter(s), 2 dime(s), 8 nickel(s), 8 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #15: 2 4 8 11 83
+   Ali, use 4 dime(s), 7 nickel(s), 8 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #16: 2 4 8 11 100
+   Ali, use 1 quarter(s), 3 dime(s), 7 nickel(s), 10 penny(s), 
+        and kick the machine 0 time(s)!
+
+Data Set #17: 2 4 8 11 42
+   Ali, use 7 nickel(s), 7 penny(s), 
+        and kick the machine 0 time(s)!
+

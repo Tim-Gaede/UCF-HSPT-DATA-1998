@@ -1,0 +1,56 @@
+Building #1:
+4 10: Possible
+7 10: Possible
+6 8: Not Possible
+2 6: Possible
+3 12: Possible
+
+Building #2:
+1 2: Possible
+2 1: Possible
+1 5: Possible
+5 1: Possible
+
+Building #3:
+1 2: Not Possible
+2 1: Not Possible
+
+Building #4:
+1 2: Not Possible
+2 4: Possible
+2 1: Not Possible
+4 2: Possible
+1 10: Not Possible
+1 9: Possible
+10 3: Not Possible
+9 3: Possible
+
+Building #5:
+1 2: Possible
+1 99: Possible
+45 87: Possible
+2 1: Not Possible
+99 1: Not Possible
+87 45: Not Possible
+
+Building #6:
+1 99: Possible
+98 99: Possible
+
+Building #7:
+1 2: Possible
+2 1: Possible
+
+Building #8:
+1 2: Possible
+1 10: Possible
+6 1: Possible
+6 2: Possible
+6 3: Possible
+6 4: Possible
+6 5: Possible
+6 7: Possible
+6 8: Possible
+6 9: Possible
+6 10: Possible
+
